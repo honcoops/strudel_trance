@@ -25,7 +25,8 @@ strudel_trance/
 └── examples/
     ├── 01_driving_bassline.js    # Classic trance basslines
     ├── 02_euphoric_leads.js      # Melodic leads and arpeggios
-    └── 03_buildups_breakdowns.js # Tension and release patterns
+    ├── 03_buildups_breakdowns.js # Tension and release patterns
+    └── 04_classic_chord_progression.js # I-V-vi-IV arpeggios
 ```
 
 ## What Makes Trance Music?
