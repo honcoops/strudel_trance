@@ -13,7 +13,7 @@ A collection of creative starting points, techniques, and ideas for creating tra
 - [ ] Triplet-based rolling bass (3/4 feel over 4/4)
 
 ### Melodic Ideas
-- [ ] Arpeggio based on classic chord progression (I-V-vi-IV)
+- [x] Arpeggio based on classic chord progression (I-V-vi-IV)
 - [ ] Two-note call and response melody
 - [ ] Layered sawtooth leads with slight detuning
 - [ ] Pentatonic scale melody for instant uplift
